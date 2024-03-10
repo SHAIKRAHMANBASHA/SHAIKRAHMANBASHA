@@ -1,0 +1,130 @@
+
+        body{
+            background-color:yellow;
+            padding: 0%;
+            margin: 0%;
+            
+        }
+        hr{
+            height:4px;
+            width:100%;
+        }
+        p{
+            font-size:50px;
+            font-style:normal;
+            color:rgb(253, 42, 5);
+            border-radius: 25px;
+        }
+        a{
+            font-size:20px;
+            text-decoration: none;
+            color:black;
+            font-weight: bolder;
+            padding: 10px;
+        }
+        h1{
+            font-size:50px;
+            text-align:center;
+            color:red;
+        }
+        fieldset{
+            background-color:rgb(12, 7, 7);
+            padding: 0%;
+            margin: 0%;
+            border: none;
+        }
+        input{
+            font-size:15px;
+        
+        }
+        font{
+            font-size: 20px;
+
+        }
+        #MY{
+            text-align: center;
+            color:orange;
+        }
+        h2{
+            color:yellow;
+            font-size:45PX;
+        }
+        ul{
+            
+            background-color: aqua;
+            height:100px;
+            padding: 0%;
+            margin: 0%;
+        }
+        #li-one{
+          display: inline-block;
+          
+           
+          margin-top: 30px ;
+          background-color: aqua;
+          margin-left: 80px;
+          border-radius: 25px;
+
+        }
+       a:hover{
+        background-color: red;
+        color: aliceblue;
+        border-radius: 25px;
+       }
+       #div-two{
+        margin: 50px;
+        border:30px solid green;
+       }
+       #div-one{
+        width:100%;
+        height:auto;
+        background-color: black;
+        padding: 0%;
+        margin: 0%;
+       }
+        #photo{
+            width:300px;
+            height:400px;
+            margin-left: 20px;
+            border-radius: 100px;  
+            margin-bottom: 10px;
+              
+        }
+        #div-three{
+            float: left;
+            width:70%;
+            height:400px;
+            background-color: rgb(3, 3, 3);
+        }
+        #img-two{
+            width: 40px;
+           }
+           #table-two{
+        
+            padding: 30px;
+            
+
+           }
+           #logo:hover{
+            background-color: aqua;
+            font-size: 30px;
+        }        
+        
+        
+
+            
+        
+
+        
+    
+
+        
+        
+        
+        
+        
+            
+        
+
+
+        
